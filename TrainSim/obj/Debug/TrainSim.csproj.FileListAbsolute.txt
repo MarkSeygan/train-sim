@@ -1,0 +1,9 @@
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\bin\Debug\TrainSim.exe.config
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Debug\TrainSim.Properties.Resources.resources
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Debug\TrainSim.csproj.GenerateResource.Cache
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\bin\Debug\TrainSim.exe
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\bin\Debug\TrainSim.pdb
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Debug\TrainSim.exe
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Debug\TrainSim.pdb
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Debug\TrainSim.MainForm.resources
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Debug\TrainSim.csprojResolveAssemblyReference.cache

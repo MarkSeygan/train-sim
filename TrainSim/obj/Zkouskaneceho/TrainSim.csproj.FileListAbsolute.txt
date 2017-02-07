@@ -1,0 +1,6 @@
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\bin\Zkouskaneceho\TrainSim.exe.config
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\bin\Zkouskaneceho\TrainSim.exe
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Zkouskaneceho\TrainSim.MainForm.resources
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Zkouskaneceho\TrainSim.Properties.Resources.resources
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Zkouskaneceho\TrainSim.csproj.GenerateResource.Cache
+C:\Users\Mark Seygan\Desktop\Zapoctak vlacky\TrainSim\TrainSim\obj\Zkouskaneceho\TrainSim.exe
